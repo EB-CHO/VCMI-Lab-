@@ -8,4 +8,5 @@
 
 #### 🔥 Weekly To Do
 📍[CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection] Review
+
 📍[https://github.com/ljwztc/CLIP-Driven-Universal-Model] Code Review
