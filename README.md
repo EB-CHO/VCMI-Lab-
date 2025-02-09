@@ -1,7 +1,7 @@
 ## 25 VCMI Lab Engagement Document Repository
 
 ### ✍️ Research
-** Meniscus Segmentation w/ VCMI Lab @SWU & Samsung Medical Center
+**Meniscus Segmentation w/ VCMI Lab @SWU & Samsung Medical Center**
 
 #### 📅 Duration
 25.01 ~ 26.
